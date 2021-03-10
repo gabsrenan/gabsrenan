@@ -8,7 +8,7 @@
   />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=gabsrenan"
@@ -22,6 +22,13 @@
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
       alt=""
   /></a>
+</p> -->
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=gabsrenan&show_icons=true&locale=en&layout=compact"
+    alt="gabsrenan"
+  />
 </p>
 
 <h3 align="left">Conecte-se a mim::</h3>
@@ -301,13 +308,6 @@
   </a>
 </p>
 
-<p>
-  &nbsp;<img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=gabsrenan&show_icons=true&locale=en&layout=compact"
-    alt="gabsrenan"
-  />
-</p>
 
 <p>
   &nbsp;<img
