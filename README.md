@@ -20,3 +20,4 @@
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=gabsrenan&show_icons=true&locale=en" alt = "gabsrenan" /> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=gabsrenan&" alt = "gabsrenan" /> </p>
+<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=gabsrenan&" alt = "gabsrenan" /> </p>
